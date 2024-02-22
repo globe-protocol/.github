@@ -26,6 +26,9 @@ body:
               - Chrome
               - Safari
               - Microsoft Edge
+              - Native App iOS
+              - Native App Android
+              - Other
     - type: textarea
       id: what-happened
       attributes:
